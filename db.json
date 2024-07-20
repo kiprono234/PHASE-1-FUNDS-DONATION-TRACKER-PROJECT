@@ -1,0 +1,310 @@
+{
+  "person": [
+    {
+      "age": "23",
+      "name": "Gorgeous"
+    }
+  ],
+  "donations": [
+    {
+      "date": "2024-06-14",
+      "name": "Rick",
+      "email": "Rick003@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "2425",
+      "id": 4,
+      "donationType": "drought donation",
+      "currency": "KSH"
+    },
+    {
+      "date": "2024-06-07",
+      "name": "Rachel",
+      "email": "Rachel254@gmail.com",
+      "fundraisers": "hospital fundraiser",
+      "amount": "500",
+      "id": 5,
+      "donationType": "hospital medical donation",
+      "currency": "USD"
+    },
+    {
+      "date": "2021-10-20",
+      "name": "Roman",
+      "email": "Roman200@gmail.com",
+      "fundraisers": "hospital fundraiser",
+      "amount": "340",
+      "id": 7,
+      "donationType": "hospital  medical donation",
+      "currency": "USD"
+    },
+    {
+      "date": "2020-05-23",
+      "name": "Ben",
+      "email": "Ben230@gmail.com",
+      "fundraisers": "disaster fundraiser",
+      "amount": "45500",
+      "id": 8,
+      "donationType": "disaster fundraiser",
+      "currency": "KSH"
+    },
+    {
+      "date": "2022-09-12",
+      "name": "Pic",
+      "email": "Pic400@gmail.com",
+      "fundraisers": "children's fundraiser",
+      "amount": "2500",
+      "id": 9,
+      "donationType": "children fundraiser donation",
+      "currency": "USD"
+    },
+    {
+      "date": "2022-03-23",
+      "name": "Visible",
+      "email": "Visible300@gmail.com",
+      "fundraisers": "people with disability",
+      "amount": "700",
+      "id": 10,
+      "donationType": "people with disability donation",
+      "currency": "USD"
+    },
+    {
+      "date": "2023-07-06",
+      "name": "Corporal",
+      "email": "Corporal100@gmail.com",
+      "fundraisers": "children fundraiser",
+      "amount": "70000",
+      "donationType": "children donation",
+      "id": 11,
+      "currency": "KSH"
+    },
+    {
+      "date": "2022-07-07",
+      "name": "Willing",
+      "email": "Willing24@gmail.com",
+      "fundraisers": "hospital fundraiser",
+      "amount": "25000",
+      "donationType": "hospital  medical donation",
+      "id": 12,
+      "currency": "KSH"
+    },
+    {
+      "date": "2023-08-03",
+      "name": "Vivian",
+      "email": "Vivian@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "500",
+      "donationType": "food donation",
+      "id": 13,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-02-07",
+      "name": "Annice",
+      "email": "Annice@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "600",
+      "donationType": "food donation",
+      "id": 14,
+      "currency": "USD"
+    },
+    {
+      "date": "2022-05-07",
+      "name": "Phy",
+      "email": "Phy@gmail.com",
+      "fundraisers": "disaster fundraiser",
+      "amount": "34500",
+      "donationType": "disaster donation",
+      "id": 15,
+      "currency": "KSH"
+    },
+    {
+      "date": "2023-02-15",
+      "name": "Amos",
+      "email": "Amos@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "5000",
+      "donationType": "food donation",
+      "id": 16,
+      "currency": "KSH"
+    },
+    {
+      "date": "2024-07-18",
+      "name": "William",
+      "email": "William@gmail.com",
+      "fundraisers": "people with disability fundraiser",
+      "amount": "7000",
+      "donationType": "people with disability donation",
+      "id": 17,
+      "currency": "KSH"
+    },
+    {
+      "date": "2020-01-23",
+      "name": "Jackson Bruce",
+      "email": "Jackson254@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "5900",
+      "donationType": "food donation",
+      "id": 18,
+      "currency": "KSH"
+    },
+    {
+      "date": "2024-07-31",
+      "name": "Ismael",
+      "email": "Ismael@yahoo.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "3535",
+      "donationType": "drought donation",
+      "id": 19,
+      "currency": "KSH"
+    },
+    {
+      "date": "2022-10-05",
+      "name": "Eric",
+      "email": "Eric@yahoo.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "500",
+      "donationType": "drought donation",
+      "id": 20,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-07-18",
+      "name": "Eugene",
+      "email": "Eugene200@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "1000",
+      "donationType": "food  donation",
+      "id": 21,
+      "currency": "USD"
+    },
+    {
+      "date": "2023-01-13",
+      "name": "Favr",
+      "email": "Favr01@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "5000",
+      "donationType": "food donation",
+      "id": 22,
+      "currency": "KSH"
+    },
+    {
+      "date": "2022-02-15",
+      "name": "Denis",
+      "email": "Denis100@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "5000",
+      "donationType": "drought donation",
+      "id": 23,
+      "currency": "KSH"
+    },
+    {
+      "date": "2023-03-09",
+      "name": "Wesly",
+      "email": "Wesly@gmail.com",
+      "fundraisers": "disaster fundraiser",
+      "amount": "800",
+      "donationType": "disaster donation",
+      "id": 24,
+      "currency": "USD"
+    },
+    {
+      "date": "2023-06-20",
+      "name": "Brenda",
+      "email": "Brenda@gmail.com",
+      "fundraisers": "children fundraiser",
+      "amount": "12000",
+      "donationType": "children donation ",
+      "id": 25,
+      "currency": "KSH"
+    },
+    {
+      "date": "2023-04-07",
+      "name": "Nickson",
+      "email": "Nick@yahoo.com",
+      "fundraisers": "hospital  fundraiser",
+      "amount": "200",
+      "donationType": "hospital medical fundraiser",
+      "id": 26,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-01-31",
+      "name": "Judy",
+      "email": "Judy@gmail.com",
+      "fundraisers": "food fundraiser",
+      "amount": "455",
+      "donationType": "food donation",
+      "id": 27,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-07-20",
+      "name": "Kamau",
+      "email": "Kamuak@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "2333",
+      "donationType": "drought donation",
+      "id": 28,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-07-18",
+      "name": "Cliff",
+      "email": "Cliff@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "455",
+      "donationType": "drought donation",
+      "id": 29,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-05-15",
+      "name": "Ken",
+      "email": "Ken24@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "5665",
+      "donationType": "drought donation",
+      "id": 30,
+      "currency": "KSH"
+    },
+    {
+      "date": "2022-02-12",
+      "name": "Rachel",
+      "email": "Rachel254@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "25000",
+      "donationType": "drought donation",
+      "id": 31,
+      "currency": "KSH"
+    },
+    {
+      "date": "2024-05-14",
+      "name": "Alexender",
+      "email": "Alex@gmail.com",
+      "fundraisers": "drought fundraiser",
+      "amount": "40000",
+      "currency": "KSH",
+      "donationType": "drought donation",
+      "id": 32
+    },
+    {
+      "date": "2023-10-04",
+      "name": "Phyllis",
+      "email": "Pyllis@gmail.com",
+      "fundraisers": "hospital fundraiser",
+      "amount": "300",
+      "currency": "USD",
+      "donationType": "hospital  medical donation",
+      "id": 33
+    },
+    {
+      "date": "2024-02-28",
+      "name": "David Raya",
+      "email": "Raya01@gmail.com",
+      "fundraisers": "hospital fundraiser",
+      "amount": "10000",
+      "currency": "USD",
+      "donationType": "hospital medical fundraiser ",
+      "id": 34
+    }
+  ]
+}
